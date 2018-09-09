@@ -17,7 +17,7 @@ Forecast one day ahead for thousands/millions of wikipedia pages
 - **Goal**: An improvement of 50% the difference between the baseline score and the best Kaggle score.  Deadline: Monday, September 17
 - **Initial Pipeline**: Loading the train_1.csv file from the [Kaggle Competition](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
 - **Purpose**: The purpose of this project is to improve my ability to forecast
-- Example applications of business use cases for forecasting are:
+- **Example Business Use Cases** for forecasting are:
 1. Customer data on a self-service platform
 2. Identify anomalies for DevOps threat alerting (i.e. tracking is working; can save you millions by prevention)
 3. Future time features for machine learning applications
