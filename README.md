@@ -33,7 +33,6 @@ Forecast one day ahead for thousands/millions of wikipedia pages
 13. Keeping track of number of customer support data over time to find stories that help you change your tactics to address problem (i.e. time to resolution, time to first response, hiring to address high velocity of tickets, transferring employees to other teams if there is low velocity of tickets, number of high priority tickets)
 14. Determining the need to open/close new warehouses
 15. Determining when suppliers are charging or providing too little value
-16. Forecasting when each customer will likely purchase an item
-17. Finding the effect of different marketing efforts on closing sales
+16. Finding the effect of different marketing efforts on closing sales
 
 - There are hundreds of ways to add value to a business with forecasting.  Companies need to stay competitive and stand out among the competition to survive.  Use forecasting to keep an edge by adding value in one of the ways mentioned above.  As mentioned above, prevention of threatening events alone can save a company millions.  Fund a forecasting project today.
