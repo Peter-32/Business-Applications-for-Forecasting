@@ -1,0 +1,7 @@
+pandas==0.20.2
+pandasql
+matplotlib==2.0.0
+numpy
+requests
+tabulate
+statsmodels

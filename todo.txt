@@ -1,0 +1,1 @@
+Make it stationary with a stationary test (automate for univariate)

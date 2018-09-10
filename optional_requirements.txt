@@ -1,0 +1,4 @@
+seaborn==0.7.1
+missingno
+bleach==1.5.0
+scikit-learn==0.18.1
