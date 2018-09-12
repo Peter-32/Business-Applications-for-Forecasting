@@ -13,7 +13,7 @@ _
 ### Problem Defined
 
 - **Definition of the problem**:
-Forecast one day ahead for thousands/millions of wikipedia pages
+Forecast one day ahead for a wikipedia page
 - **Goal**: Univariate time series forecasting on the first wikipedia page from on the train_1.csv file.  Deadline: Monday, September 17
 - **Initial Pipeline**: Loading the train_1.csv file from the [Kaggle Competition](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
 - **Purpose**: The purpose of this project is to improve my ability to forecast
