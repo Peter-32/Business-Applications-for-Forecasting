@@ -15,7 +15,8 @@ _
 - **Definition of the problem**:
 Forecast one day ahead for a wikipedia page
 - **Goal**: Univariate time series forecasting on the first wikipedia page from on the train_1.csv file.  Deadline: Monday, September 17
-- **Initial Pipeline**: Loading the train_1.csv file from the [Kaggle Competition](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
+- **Initial Pre-Model Pipeline**: Loading the train_1.csv file from the [Kaggle Competition](https://www.kaggle.com/c/web-traffic-time-series-forecasting) and
+stationarize the time series.
 - **Purpose**: The purpose of this project is to improve my ability to forecast
 - **Example Business Use Cases** for forecasting are:
 1. Customer data on a self-service platform

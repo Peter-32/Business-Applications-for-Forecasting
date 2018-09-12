@@ -14,18 +14,15 @@ mpl.rcParams['figure.figsize'] = (15.0, 5.0)
 def prepare_data():
     page_visits = pd.read_csv('data/train_1.csv', sep=",", nrows=1)
     page_visits = _transpose_and_set_column_names(page_visits)
-    page_visits = _set_index_datatype_to_datetime(page_visits)
     return _convert_all_columns_to_integers(page_visits)
 
 def _transpose_and_set_column_names(page_visits):
     page_visits = page_visits.T
+    print(page_visits)
     page_visits.columns = page_visits.iloc[0]
+    print(page_visits.columns)
+    print(page_visits)
     return page_visits.iloc[1:]
-
-def _set_index_datatype_to_datetime(page_visits):
-    page_visits['_Date_'] = pd.to_datetime(page_visits.index)
-    page_visits.set_index(['_Date_'])
-    return page_visits.drop(['_Date_'], axis=1)
 
 def _convert_all_columns_to_integers(page_visits):
     for col in page_visits.columns:
@@ -93,5 +90,5 @@ def print_dicky_fuller_test_results(page_visits):
         print(adf_result)
 
 
-first_order_differencing_checks()
-print_dicky_fuller_test_results(page_visits)
+# first_order_differencing_checks()
+# print_dicky_fuller_test_results(page_visits)
