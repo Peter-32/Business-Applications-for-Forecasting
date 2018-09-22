@@ -1,4 +1,4 @@
-# web_traffic_time_series_forecasting
+# Business-Applications-for-Forecasting
 
 _
 
