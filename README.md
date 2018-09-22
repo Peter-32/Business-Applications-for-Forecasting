@@ -1,15 +1,5 @@
 # Business-Applications-for-Forecasting
 
-_
-
-### Prerequisites
-
-_
-
-### Installing
-
-_
-
 ### Problem Defined
 
 - **Definition of the problem**:
